@@ -1,4 +1,6 @@
 # Stopwatch
 Simple Stopwatch app
 
-![](images/stopwatch.png)
+(HTML, CSS & JavaScript)
+
+![](images/stopwatch2.png)

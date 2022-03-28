@@ -19,7 +19,7 @@ const reset = document.getElementById("btn3");
 //  If statusStopWatch is false, the interval function is executed. if true, nothing happens
 start.addEventListener("click", function () {
   if (statusStopWatch === true) {
-    interval = setInterval(stopWatch, 100);
+    interval = setInterval(stopWatch, 10);
     statusStopWatch = false;
   }
 });
